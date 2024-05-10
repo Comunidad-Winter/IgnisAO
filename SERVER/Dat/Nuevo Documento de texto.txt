@@ -1,0 +1,5 @@
+[OBJ157]
+Name=Copa de Plata
+
+[OBJ710]
+Name=Copa de Oro

@@ -1,0 +1,18 @@
+[MAPA1]
+Name=Runek
+MusicNum=176
+MagiaSinefecto=0
+InviSinEfecto=0
+ResuSinEfecto=0
+NoEncriptarMP=0
+Terreno=BOSQUE
+Zona=CIUDAD
+BackUp= 0
+Pk=1
+[MAPA306]
+MagiaSinefecto=0
+InviSinEfecto=0
+ResuSinEfecto=0
+NoEncriptarMP=0
+BackUp= 0
+Pk=0

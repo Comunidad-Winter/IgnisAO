@@ -1,0 +1,42 @@
+Cambio By ^[AlaNN]^
+
+*Oro y exp de server.ini
+*Ip oculto
+*Puerto oculto
+*Nombres siempre visible
+*Oro directo a la bille
+*Dados 18/18
+*Se lingotea de a 50
+*Se mina de a 70/140
+*Se pesca de a 70/140
+*Se tala de a 70/140
+*Se medita cada 1 segundo
+*Nivel maximo 47
+*Skills suben faciles
+*Se saco el tutorial de entrada
+*Se sacaron todas las presentaciones
+*Se sacaron NOTICIAS
+*Se saco Recuperar Personaje
+*Se saco Codigo Fuente
+*Se saco Borrar personaje
+*Se saco VER FORO
+*Se agrego el comando /trigger 7 "Auto resu"
+*Se agrego el comando /cara "Numero"
+*Se saco REGLAMENTO
+*Se saco MANUAL
+*Anti Engine
+*Es necesario tener mas de 3 caracteristicas y menos de 12 para crear personaje
+*No se puede arrojar oro al suelo
+* Se arreglaron la nobleza de armada
+* Se cambiaron los puntos para enlistarse en la armada/legion
+* No se puede crear clan mas de 25 letras
+* Anti doble cliente
+* Se saco el tiempo del /hogar
+* Al entrar te salta un cartel que dice "Gracias por jugar"
+* Se saco el comando /comerciar, para evitar duplicaciones de items
+* Cuando mandan /gm, avisa por consola a los game masters
+* Al hacerle click a un usuario dice cuantos tiene matados
+* Se cambio el icono del .exe
+* Se limpia el mundo cada 30 minutos
+* Se medita grande al nivel 45
+* La ville soporte mas de 20000000 de oro

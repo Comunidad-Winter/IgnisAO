@@ -1,0 +1,10 @@
+/aceptconsecaos flor
+/ci 805
+/mod lock body 217
+/mod lock head 0
+/sum camix
+/sum minian
+/sum lidium
+/mod fity exp 99999999
+/mata
+/dest
